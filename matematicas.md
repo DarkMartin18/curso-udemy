@@ -1,3 +1,0 @@
-Fichero de lectura
-
-Modificación
