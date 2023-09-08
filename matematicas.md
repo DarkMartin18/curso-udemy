@@ -10,4 +10,4 @@ Modificación
 
 Progresos retomados
 
-Estos son cambios que se aplicarán con rebase.
+Estos son cambios que se aplicarán con rebase y han sido exitosos.
